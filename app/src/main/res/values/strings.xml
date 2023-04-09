@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Joking App</string>
+    <string-array name="jokes">
+        <item>Why did the computer go to the doctor? Because it had a virus!</item>
+        <item>What do you call a kangaroo who loves to play basketball? A hoop jumper!</item>
+        <item>Why do cows wear bells? Because their horns dont work!</item>
+        <item>Why did the tomato turn red? Because it saw the salad dressing!</item>
+        <item>What do you call a crab who plays baseball? A pinch hitter!</item>
+        <item>Why did the chicken cross the playground? To get to the other slide!</item>
+        <item>What do you call a frog who loves to travel? A hopper explorer!</item>
+        <item>Why did the cookie go to the doctor? Because it was feeling crummy!</item>
+        <item>What do you call a bear who loves to dance? A bear boogie!</item>
+        <item>Why did the banana go to the doctor? Because it wasnt peeling well!</item>
+        <item>What do you call a fish who wears a bowtie? Sophis-ti-cat!</item>
+        <item>Why did the robot go on a diet? Because it had too many mega-bytes!</item>
+        <item>What do you call a bird who loves to shop? A mallard!</item>
+        <item>Why did the bike fall over? Because it was two-tired!</item>
+        <item>What do you call a dinosaur who loves to sing? A trex-o-lot!</item>
+        <item>Why did the vegetable go to the beach? To get a little sun-pepper!</item>
+    </string-array>
+    <string name="next">next joke</string>
+    <string name="prev">previous joke</string>
+
+</resources>
