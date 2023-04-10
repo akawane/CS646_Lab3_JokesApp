@@ -18,7 +18,7 @@
         <item>What do you call a dinosaur who loves to sing? A trex-o-lot!</item>
         <item>Why did the vegetable go to the beach? To get a little sun-pepper!</item>
     </string-array>
-    <string name="next">next joke</string>
-    <string name="prev">previous joke</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
 
 </resources>
