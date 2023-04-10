@@ -6,7 +6,6 @@ import android.os.Bundle
 import android.view.*
 import android.widget.TextView
 import androidx.fragment.app.Fragment
-import com.akawane0813.jokesviewer.R
 import kotlin.math.abs
 
 // Define a constant value for the key of the joke state in the Bundle

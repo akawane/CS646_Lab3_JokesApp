@@ -2,7 +2,6 @@ package com.akawane0813.jokesviewer
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.akawane0813.jokesviewer.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
